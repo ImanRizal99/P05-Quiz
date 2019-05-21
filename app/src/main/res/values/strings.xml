@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flight to Taipei</string>
+    <string name="ticketType">Ticket Type :</string>
+</resources>
